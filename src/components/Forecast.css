@@ -1,0 +1,27 @@
+.foreCastSection{
+    width: 80vw;
+    
+}
+
+.hourtrack{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    flex-wrap: wrap;
+}
+
+.progress{
+    width: 70% ;
+}
+
+@media screen and (max-width: 768px) {
+    .foreCastSection {
+      width: 90vw;
+    }
+  
+    .hourtrack {
+      justify-content: center;
+    }
+  }
+

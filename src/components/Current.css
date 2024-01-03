@@ -1,0 +1,42 @@
+.current{
+    background-color:transparent;
+    color:white;
+    width: 60vw;
+    margin: 5vh;
+}
+
+.currentBody{
+    margin: 3vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+
+.cityside{
+  text-align: start;
+  
+}
+
+.coditionIcon{
+   
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.conditionContainer{
+    background-color: rgba(255, 255, 255, 0.388);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: inset -4px -4px 16px white;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 35vw;
+    color: black;
+    
+}
